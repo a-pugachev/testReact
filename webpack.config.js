@@ -1,8 +1,8 @@
-const HtmlWebPackPlugin = require("html-webpack-plugin");
-//const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
+const HtmlWebPackPlugin = require("html-webpack-plugin"), 
+      webpack = require('webpack');
 
 module.exports = {
-
+    context: __dirname,
     entry: './src/app.js',
     output: {
         filename: "bundle.js"
@@ -11,10 +11,21 @@ module.exports = {
     module: {
         rules: [
             {
+                test: /\.less$/,
+                use: [
+                    { loader: 'style-loader' },
+                    { loader: 'css-loader' },
+                    { loader: 'less-loader' }
+                ]
+            },
+            {
                 test: /\.js$/,
                 exclude: /node_modules/,
                 use: {
-                    loader: "babel-loader"
+                    loader: "babel-loader",
+                    query: {
+                        presets: ["@babel/preset-env", "@babel/preset-react"]
+                    }
                 }
             },
             {
@@ -28,10 +39,12 @@ module.exports = {
         ]
     },
     plugins: [
-        //new  UglifyJsPlugin(),
         new HtmlWebPackPlugin({
             template: "src/index.html",
             filename: "index.html"
         })
-    ]
+    ],
+    resolve: {
+        extensions: ['.js', '.jsx', '.less']
+    }
 };

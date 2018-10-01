@@ -1,0 +1,572 @@
+{
+  "books": [
+    {
+      "id": 47,
+      "title": "Слава Королю",
+      "view": 909944,
+      "url": "https://ранобэ.рф/slava-korolyu/",
+      "lastUpdatedBook": 1537273498,
+      "image": {
+        "desktop": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/47/slava-korolyu-1508842675.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/47/svg/slava-korolyu-1508842675.svg"
+        },
+        "mobile": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/47/mobile/slava-korolyu-1516627157.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/47/mobile/svg/slava-korolyu-1516627157.svg"
+        }
+      },
+      "likes": 1053,
+      "dislikes": 102,
+      "user": {
+        "like": 0,
+        "dislike": 0
+      },
+      "activeUsers": 194,
+      "parts": [
+        {
+          "id": 42675,
+          "partNumber": "Глава 1030.1",
+          "title": "Алтарь и критический момент",
+          "payment": false,
+          "url": "https://ранобэ.рф/slava-korolyu/glava-1030-1-altar-i-kriticheskiy-moment/",
+          "sponsor": true,
+          "view": 1
+        },
+        {
+          "id": 42674,
+          "partNumber": "Глава 1029",
+          "title": "Это засада?",
+          "payment": false,
+          "url": "https://ранобэ.рф/slava-korolyu/glava-1029-eto-zasada/",
+          "sponsor": false,
+          "view": 880
+        },
+        {
+          "id": 42673,
+          "partNumber": "Глава 1028",
+          "title": "Песчаные бури",
+          "payment": false,
+          "url": "https://ранобэ.рф/slava-korolyu/glava-1028-peschanie-buri/",
+          "sponsor": true,
+          "view": 1751
+        },
+        {
+          "id": 42672,
+          "partNumber": "Глава 1027",
+          "title": "Большое происшествие",
+          "payment": false,
+          "url": "https://ранобэ.рф/slava-korolyu/glava-1027-bolshoe-proisshestvie/",
+          "sponsor": false,
+          "view": 1088
+        },
+        {
+          "id": 42671,
+          "partNumber": "Глава 1026",
+          "title": "Чистка",
+          "payment": false,
+          "url": "https://ранобэ.рф/slava-korolyu/glava-1026-chistka/",
+          "sponsor": false,
+          "view": 1972
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Мировые Врата Онлайн",
+      "view": 53539,
+      "url": "https://ранобэ.рф/mirovie-vrata-onlayn/",
+      "lastUpdatedBook": 1537271100,
+      "image": {
+        "desktop": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/75/mirovie-vrata-onlayn-1516628336.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/75/svg/mirovie-vrata-onlayn-1516628336.svg"
+        },
+        "mobile": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/75/mobile/mirovie-vrata-onlayn-1516628337.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/75/mobile/svg/mirovie-vrata-onlayn-1516628337.svg"
+        }
+      },
+      "likes": 169,
+      "dislikes": 36,
+      "user": {
+        "like": 0,
+        "dislike": 0
+      },
+      "activeUsers": 110,
+      "parts": [
+        {
+          "id": 40228,
+          "partNumber": "Том 3. Глава 10.1",
+          "title": "Белый рыцарь",
+          "payment": false,
+          "url": "https://ранобэ.рф/mirovie-vrata-onlayn/tom-3-glava-10-1-beliy-rytsar/",
+          "sponsor": false,
+          "view": 23
+        },
+        {
+          "id": 38780,
+          "partNumber": "Том 3. Глава 9.3",
+          "title": "Мир",
+          "payment": false,
+          "url": "https://ранобэ.рф/mirovie-vrata-onlayn/tom-3-glava-9-3-mir/",
+          "sponsor": false,
+          "view": 353
+        },
+        {
+          "id": 38779,
+          "partNumber": "Том 3. Глава 9.2",
+          "title": "Мир",
+          "payment": false,
+          "url": "https://ранобэ.рф/mirovie-vrata-onlayn/tom-3-glava-9-2-mir/",
+          "sponsor": false,
+          "view": 548
+        },
+        {
+          "id": 38778,
+          "partNumber": "Том 3. Глава 9.1",
+          "title": "Мир",
+          "payment": false,
+          "url": "https://ранобэ.рф/mirovie-vrata-onlayn/tom-3-glava-9-1-mir/",
+          "sponsor": false,
+          "view": 625
+        },
+        {
+          "id": 38777,
+          "partNumber": "Том 3. Глава 8.4",
+          "title": "Первая волна",
+          "payment": false,
+          "url": "https://ранобэ.рф/mirovie-vrata-onlayn/tom-3-glava-8-4-pervaya-volna/",
+          "sponsor": false,
+          "view": 632
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Я Запечатаю Небеса",
+      "view": 683602,
+      "url": "https://ранобэ.рф/i-shall-seal-the-heavens/",
+      "lastUpdatedBook": 1537270200,
+      "image": {
+        "desktop": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/11/ya-zapechatayu-nebesa-1511772006.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/11/svg/ya-zapechatayu-nebesa-1511772006.svg"
+        },
+        "mobile": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/11/mobile/ya-zapechatayu-nebesa-1516628811.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/11/mobile/svg/ya-zapechatayu-nebesa-1516628811.svg"
+        }
+      },
+      "likes": 621,
+      "dislikes": 37,
+      "user": {
+        "like": 0,
+        "dislike": 0
+      },
+      "activeUsers": 186,
+      "parts": [
+        {
+          "id": 43809,
+          "partNumber": "Глава 1139",
+          "title": "Вечный всевышний бессмертный",
+          "payment": false,
+          "url": "https://ранобэ.рф/i-shall-seal-the-heavens/glava-1139-vechniy-vsevyshniy-bessmertniy/",
+          "sponsor": false,
+          "view": 322
+        },
+        {
+          "id": 43808,
+          "partNumber": "Глава 1138",
+          "title": "Токсичный поток ци?!",
+          "payment": false,
+          "url": "https://ранобэ.рф/i-shall-seal-the-heavens/glava-1138-toksichniy-potok-tsi/",
+          "sponsor": false,
+          "view": 1551
+        },
+        {
+          "id": 43807,
+          "partNumber": "Глава 1137",
+          "title": "Очевидная наживка!",
+          "payment": false,
+          "url": "https://ранобэ.рф/i-shall-seal-the-heavens/glava-1137-ochevidnaya-nazhivka/",
+          "sponsor": false,
+          "view": 2055
+        },
+        {
+          "id": 43184,
+          "partNumber": "Глава 1136",
+          "title": "Резкие перемены",
+          "payment": false,
+          "url": "https://ранобэ.рф/i-shall-seal-the-heavens/glava-1136-rezkie-peremeny/",
+          "sponsor": false,
+          "view": 2373
+        },
+        {
+          "id": 43183,
+          "partNumber": "Глава 1135",
+          "title": "Молниеносный",
+          "payment": false,
+          "url": "https://ранобэ.рф/i-shall-seal-the-heavens/glava-1135-molnienosniy/",
+          "sponsor": false,
+          "view": 2452
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Сказания о Пастухе Богов",
+      "view": 46386,
+      "url": "https://ранобэ.рф/skazaniya-o-pastukhe-bogov/",
+      "lastUpdatedBook": 1537269600,
+      "image": {
+        "desktop": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/91/skazaniya-o-pastukhe-bogov-1537088128.jpg",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/91/svg/skazaniya-o-pastukhe-bogov-1537088128.svg"
+        },
+        "mobile": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/91/mobile/skazaniya-o-pastukhe-bogov-1537088128.jpg",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/91/mobile/svg/skazaniya-o-pastukhe-bogov-1537088128.svg"
+        }
+      },
+      "likes": 199,
+      "dislikes": 16,
+      "user": {
+        "like": 0,
+        "dislike": 0
+      },
+      "activeUsers": 57,
+      "parts": [
+        {
+          "id": 43380,
+          "partNumber": "Глава 213",
+          "title": "В поисках мести",
+          "payment": false,
+          "url": "https://ранобэ.рф/skazaniya-o-pastukhe-bogov/noindex-glava-213-v-poiskakh-mesti/",
+          "sponsor": false,
+          "view": 55
+        },
+        {
+          "id": 43379,
+          "partNumber": "Глава 212",
+          "title": "Расставания неизбежны",
+          "payment": false,
+          "url": "https://ранобэ.рф/skazaniya-o-pastukhe-bogov/noindex-glava-212-rasstavaniya-neizbezhny/",
+          "sponsor": false,
+          "view": 233
+        },
+        {
+          "id": 42312,
+          "partNumber": "Глава 211",
+          "title": "Ворота Небесной Воли",
+          "payment": false,
+          "url": "https://ранобэ.рф/skazaniya-o-pastukhe-bogov/noindex-glava-211-vorota-nebesnoy-voli/",
+          "sponsor": false,
+          "view": 291
+        },
+        {
+          "id": 42311,
+          "partNumber": "Глава 210",
+          "title": "Признавший поражение",
+          "payment": false,
+          "url": "https://ранобэ.рф/skazaniya-o-pastukhe-bogov/noindex-glava-210-priznavshiy-porazhenie/",
+          "sponsor": false,
+          "view": 348
+        },
+        {
+          "id": 42310,
+          "partNumber": "Глава 209",
+          "title": "Ворота Земного Происхождения",
+          "payment": false,
+          "url": "https://ранобэ.рф/skazaniya-o-pastukhe-bogov/noindex-glava-209-vorota-zemnogo-proiskhozhdeniya/",
+          "sponsor": false,
+          "view": 362
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Супер Ген Бога",
+      "view": 453839,
+      "url": "https://ранобэ.рф/super-gen-boga/",
+      "lastUpdatedBook": 1537268906,
+      "image": {
+        "desktop": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/64/super-gen-boga-1520328204.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/64/svg/super-gen-boga-1520328204.svg"
+        },
+        "mobile": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/64/mobile/super-gen-boga-1524303686.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/64/mobile/svg/super-gen-boga-1524303686.svg"
+        }
+      },
+      "likes": 490,
+      "dislikes": 35,
+      "user": {
+        "like": 0,
+        "dislike": 0
+      },
+      "activeUsers": 120,
+      "parts": [
+        {
+          "id": 43746,
+          "partNumber": "Глава 439",
+          "title": "Жестокая реальность",
+          "payment": true,
+          "url": "https://ранобэ.рф/super-gen-boga/glava-439-zhestokaya-realnost/",
+          "sponsor": true,
+          "view": 319
+        },
+        {
+          "id": 43745,
+          "partNumber": "Глава 438",
+          "title": "Берсерк",
+          "payment": true,
+          "url": "https://ранобэ.рф/super-gen-boga/glava-438-berserk/",
+          "sponsor": true,
+          "view": 723
+        },
+        {
+          "id": 43733,
+          "partNumber": "Глава 437",
+          "title": "Первая охота",
+          "payment": true,
+          "url": "https://ранобэ.рф/super-gen-boga/glava-437-pervaya-okhota/",
+          "sponsor": false,
+          "view": 947
+        },
+        {
+          "id": 43718,
+          "partNumber": "Глава 436",
+          "title": "Только женщина",
+          "payment": true,
+          "url": "https://ранобэ.рф/super-gen-boga/glava-436-tolko-zhenshchina/",
+          "sponsor": true,
+          "view": 929
+        },
+        {
+          "id": 43717,
+          "partNumber": "Глава 435",
+          "title": "Встреча с моей любимой",
+          "payment": true,
+          "url": "https://ранобэ.рф/super-gen-boga/glava-435-vstrecha-s-moey-lyubimoy/",
+          "sponsor": true,
+          "view": 1100
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Ученик Карты",
+      "view": 89097,
+      "url": "https://ранобэ.рф/uchenik-karty/",
+      "lastUpdatedBook": 1537268400,
+      "image": {
+        "desktop": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/82/uchenik-karty-1521028069.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/82/svg/uchenik-karty-1521028069.svg"
+        },
+        "mobile": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/82/mobile/uchenik-karty-1521028069.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/82/mobile/svg/uchenik-karty-1521028069.svg"
+        }
+      },
+      "likes": 265,
+      "dislikes": 19,
+      "user": {
+        "like": 0,
+        "dislike": 0
+      },
+      "activeUsers": 159,
+      "parts": [
+        {
+          "id": 42564,
+          "partNumber": "Глава 148.1",
+          "title": "Безупречное мастерство (часть 2)",
+          "payment": false,
+          "url": "https://ранобэ.рф/uchenik-karty/glava-148-1-bezuprechnoe-masterstvo-chast-2/",
+          "sponsor": false,
+          "view": 196
+        },
+        {
+          "id": 42563,
+          "partNumber": "Глава 147.2",
+          "title": "Безупречное мастерство (часть 1)",
+          "payment": false,
+          "url": "https://ранобэ.рф/uchenik-karty/glava-147-2-bezuprechnoe-masterstvo-chast-1/",
+          "sponsor": false,
+          "view": 898
+        },
+        {
+          "id": 42562,
+          "partNumber": "Глава 147.1",
+          "title": "Безупречное мастерство (часть 1)",
+          "payment": false,
+          "url": "https://ранобэ.рф/uchenik-karty/glava-147-1-bezuprechnoe-masterstvo-chast-1/",
+          "sponsor": false,
+          "view": 1181
+        },
+        {
+          "id": 42561,
+          "partNumber": "Глава 146.2",
+          "title": "Преследование",
+          "payment": false,
+          "url": "https://ранобэ.рф/uchenik-karty/glava-146-2-presledovanie/",
+          "sponsor": false,
+          "view": 1190
+        },
+        {
+          "id": 42560,
+          "partNumber": "Глава 146.1",
+          "title": "Преследование",
+          "payment": false,
+          "url": "https://ранобэ.рф/uchenik-karty/glava-146-1-presledovanie/",
+          "sponsor": false,
+          "view": 1289
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Закон Дьявола",
+      "view": 294694,
+      "url": "https://ранобэ.рф/law-of-the-devil/",
+      "lastUpdatedBook": 1537267824,
+      "image": {
+        "desktop": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/9/zakon-dyavola-1514195695.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/9/svg/zakon-dyavola-1514195695.svg"
+        },
+        "mobile": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/9/mobile/zakon-dyavola-1516628837.png",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/9/mobile/svg/zakon-dyavola-1516628837.svg"
+        }
+      },
+      "likes": 318,
+      "dislikes": 43,
+      "user": {
+        "like": 0,
+        "dislike": 0
+      },
+      "activeUsers": 61,
+      "parts": [
+        {
+          "id": 41092,
+          "partNumber": "Глава 442.1",
+          "title": "Лазурный Свод Неповторимой Красоты (часть 1)",
+          "payment": false,
+          "url": "https://ранобэ.рф/law-of-the-devil/glava-442-1-lazurniy-svod-nepovtorimoy-krasoty-chast-1/",
+          "sponsor": true,
+          "view": 143
+        },
+        {
+          "id": 41090,
+          "partNumber": "Глава 441",
+          "title": "Пятицветный панцирь-полумесяц",
+          "payment": false,
+          "url": "https://ранобэ.рф/law-of-the-devil/glava-441-pyatitsvetniy-pantsir-polumesyats/",
+          "sponsor": false,
+          "view": 548
+        },
+        {
+          "id": 41089,
+          "partNumber": "Глава 440.2",
+          "title": "Захват божественной природы (часть 2)",
+          "payment": false,
+          "url": "https://ранобэ.рф/law-of-the-devil/glava-440-2-zakhvat-bozhestvennoy-prirody-chast-2/",
+          "sponsor": true,
+          "view": 418
+        },
+        {
+          "id": 41088,
+          "partNumber": "Глава 440.1",
+          "title": "Захват божественной природы (часть 1)",
+          "payment": false,
+          "url": "https://ранобэ.рф/law-of-the-devil/glava-440-1-zakhvat-bozhestvennoy-prirody-chast-1/",
+          "sponsor": true,
+          "view": 802
+        },
+        {
+          "id": 41087,
+          "partNumber": "Глава 439.2",
+          "title": "Печаль тысячелетий (часть 2)",
+          "payment": false,
+          "url": "https://ранобэ.рф/law-of-the-devil/glava-439-2-pechal-tysyacheletiy-chast-2/",
+          "sponsor": false,
+          "view": 617
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Повелитель Трех Царств",
+      "view": 14516,
+      "url": "https://ранобэ.рф/povelitel-trekh-carstv/",
+      "lastUpdatedBook": 1537267500,
+      "image": {
+        "desktop": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/112/povelitel-trekh-carstv-1533827505.jpg",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/112/svg/povelitel-trekh-carstv-1533827505.svg"
+        },
+        "mobile": {
+          "image": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/112/mobile/povelitel-trekh-carstv-1533827505.jpg",
+          "svg": "https://xn--80ac9aeh6f.xn--p1ai/statics/images/book/112/mobile/svg/povelitel-trekh-carstv-1533827505.svg"
+        }
+      },
+      "likes": 63,
+      "dislikes": 6,
+      "user": {
+        "like": 0,
+        "dislike": 0
+      },
+      "activeUsers": 38,
+      "parts": [
+        {
+          "id": 41284,
+          "partNumber": "Глава 41",
+          "title": "Разговоры в городе",
+          "payment": false,
+          "url": "https://ранобэ.рф/povelitel-trekh-carstv/glava-41-razgovory-v-gorode/",
+          "sponsor": false,
+          "view": 96
+        },
+        {
+          "id": 41283,
+          "partNumber": "Глава 40",
+          "title": "Возобновление споров",
+          "payment": false,
+          "url": "https://ранобэ.рф/povelitel-trekh-carstv/glava-40-napadenie-na-ottsa-vozobnovlenie-sporov/",
+          "sponsor": false,
+          "view": 304
+        },
+        {
+          "id": 41282,
+          "partNumber": "Глава 39",
+          "title": "Предоставление Гоуюй подсказок, возвращение долга",
+          "payment": false,
+          "url": "https://ранобэ.рф/povelitel-trekh-carstv/glava-39-predostavlenie-gouyuy-podskazok-vozvrashchenie-dolga/",
+          "sponsor": true,
+          "view": 272
+        },
+        {
+          "id": 41281,
+          "partNumber": "Глава 38",
+          "title": "Правда открывается, головы катятся",
+          "payment": false,
+          "url": "https://ранобэ.рф/povelitel-trekh-carstv/glava-38-pravda-otkryvaetsya-golovy-katyatsya/",
+          "sponsor": false,
+          "view": 355
+        },
+        {
+          "id": 41280,
+          "partNumber": "Глава 37",
+          "title": "Радикальное изменение ситуации, покорение Экзаменаторов",
+          "payment": false,
+          "url": "https://ранобэ.рф/povelitel-trekh-carstv/glava-37-radikalnoe-izmenenie-situatsii-pokorenie-ekzamenatorov/",
+          "sponsor": false,
+          "view": 400
+        }
+      ]
+    }
+  ]
+}
